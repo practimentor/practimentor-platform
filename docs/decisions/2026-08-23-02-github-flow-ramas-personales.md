@@ -58,7 +58,7 @@ Se adopta **GitHub Flow**, con **ramas personales** en esta primera etapa.
 ```text
 main ───●──────────●──────────●──────────●────►   siempre desplegable
        ↗ ↘        ↗ ↘        ↗ ↘
-   dev/mafer   dev/sergio  dev/nicolas   dev/andre
+   dev/mafer   dev/sergio  dev/nicolas   dev-qa/andre
 ```
 
 Reglas:

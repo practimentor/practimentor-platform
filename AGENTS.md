@@ -73,7 +73,7 @@ infra/
 
 - `main` es la **única** rama permanente compartida y siempre debe quedar ejecutable
 - **No existe rama `develop`** ni ramas `release/*`
-- Cada integrante trabaja en su rama propia: `dev/andre`, `dev/mafer`,
+- Cada integrante trabaja en su rama propia: `dev-qa/andre`, `dev/mafer`,
   `dev/sergio`, `dev/nicolas`. La rama **no se borra** al fusionar
 - Antes de cada tarea nueva se trae `main` a la rama propia (`git merge origin/main`)
 - Un Pull Request **por tarea**, con `Closes #NN`, aunque salgan de la misma rama

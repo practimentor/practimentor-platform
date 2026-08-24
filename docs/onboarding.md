@@ -72,7 +72,7 @@ Cada uno tiene la suya:
 
 | Persona | Rama |
 |---|---|
-| André | `dev/andre` |
+| André | `dev-qa/andre` (dev + QA) |
 | Mafer | `dev/mafer` |
 | Sergio | `dev/sergio` |
 | Nicolás | `dev/nicolas` |
@@ -244,7 +244,7 @@ aquí no usamos. El porqué está en
 ```text
 main ───●──────────●──────────●──────────●────►   siempre desplegable
        ↗ ↘        ↗ ↘        ↗ ↘
-   dev/mafer   dev/sergio  dev/nicolas   dev/andre
+   dev/mafer   dev/sergio  dev/nicolas   dev-qa/andre
 ```
 
 ### 1. Toma un issue
