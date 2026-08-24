@@ -1,0 +1,54 @@
+# ---------------------------------------------------------------
+# Secretos y credenciales — NUNCA se suben
+# ---------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+credentials.json
+secrets.yaml
+secrets.yml
+
+# Kubeconfig y contextos de clúster
+kubeconfig
+kubeconfig.*
+.kube/
+
+# ---------------------------------------------------------------
+# Terraform — el estado contiene secretos en texto plano
+# ---------------------------------------------------------------
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+crash.log
+override.tf
+override.tf.json
+
+# ---------------------------------------------------------------
+# Documentos privados del líder técnico
+# ---------------------------------------------------------------
+NOTAS-LIDER.md
+docs/privado/
+
+# ---------------------------------------------------------------
+# Sistema operativo y editores
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# ---------------------------------------------------------------
+# Temporales
+# ---------------------------------------------------------------
+*.log
+tmp/
+temp/
