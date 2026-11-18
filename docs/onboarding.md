@@ -28,7 +28,7 @@ gh auth login
 
 ## 3. Entra a la organización
 
-Acepta la invitación que llega a tu correo o entra a `github.com/practimentor`. Sin aceptarla no podrás ver los repositorios que sean privados ni asignarte issues.
+Acepta la invitación que llega a tu correo en los primeros dos días del sprint. Sin aceptarla no podrás ver los repositorios ni asignarte issues.
 
 ## 4. Repositorios
 
