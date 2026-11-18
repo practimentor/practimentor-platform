@@ -45,7 +45,7 @@ El acceso a PostgreSQL va con **Entity Framework Core** mediante el proveedor
 **Npgsql**, y las migraciones con `dotnet ef`.
 
 **Ningún servicio comparte tablas con otro.** La base de PostgreSQL pertenece a
-`utp-agent-api-academic`; Qdrant pertenece a `utp-agent-api-rag`. Si un servicio
+`practimentor-api-core`; Qdrant pertenece a `practimentor-ai`. Si un servicio
 necesita datos del otro, los pide por su API.
 
 ## Consecuencias
