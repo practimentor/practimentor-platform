@@ -1,6 +1,6 @@
 # ADR 2026-08-23-02: GitHub Flow con ramas personales
 
-- **Estado:** aceptada
+- **Estado:** reemplazada por [2026-11-18-02](2026-11-18-02-github-flow-ramas-cortas.md)
 - **Fecha:** 2026-08-23
 - **Revisión prevista:** al cerrar el Sprint 1
 
