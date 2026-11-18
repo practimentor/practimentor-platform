@@ -19,7 +19,7 @@ Esta tabla se actualiza a mano cada vez que se agrega un ADR.
 
 | ADR | Decisión | Estado |
 |---|---|---|
-| [2026-08-23-01](2026-08-23-01-polyrepo-bajo-organizacion.md) | Un repositorio por servicio, bajo la organización `utp-agent` | Aceptada |
+| [2026-08-23-01](2026-08-23-01-polyrepo-bajo-organizacion.md) | Un repositorio por servicio, bajo la organización `practimentor` | Aceptada |
 | [2026-08-23-02](2026-08-23-02-github-flow-ramas-personales.md) | GitHub Flow con ramas personales `dev/<nombre>` | Reemplazada por 2026-11-18-02 |
 | [2026-08-23-03](2026-08-23-03-csharp-en-vez-de-java.md) | C# .NET 10 para el backend académico | Aceptada |
 | [2026-08-23-04](2026-08-23-04-proveedor-ia-detras-de-interfaz.md) | Proveedor de IA detrás de una interfaz propia, Gemini por defecto | Aceptada |

@@ -5,7 +5,7 @@
 
 ## Contexto
 
-Los ADRs de agosto de 2026 se escribieron para un asistente académico con búsqueda sobre documentos de cursos (nombre de trabajo `utp-agent`). Ese producto era una variante de plataformas académicas existentes y no justificaba por sí solo los recursos de contenedores y Kubernetes que pide el curso.
+Los ADRs de agosto de 2026 se escribieron para un asistente académico con búsqueda sobre documentos de cursos. Ese producto era una variante de plataformas académicas existentes y no justificaba por sí solo los recursos de contenedores y Kubernetes que pide el curso.
 
 ## Opciones consideradas
 
@@ -16,7 +16,7 @@ Los ADRs de agosto de 2026 se escribieron para un asistente académico con búsq
 
 El producto es **PractiMentor**. La organización de GitHub se llama `practimentor` y los repositorios se renombran: `practimentor-platform`, `practimentor-web`, `practimentor-api-core`, `practimentor-ai` y `practimentor-gateway`.
 
-Se conservan las decisiones técnicas de los ADRs 2026-08-23-01, 03, 04, 05, 06 y 07 (polirepo, C# .NET 10, proveedor de IA detrás de una interfaz, Azure, PostgreSQL y Qdrant, multi-tenant). En ellos, donde dice `utp-agent` o «plataforma académica», léase PractiMentor.
+Los repositorios se renombran con el prefijo `practimentor-`. Se conservan las decisiones técnicas de los ADRs 2026-08-23-01, 03, 04, 05, 06 y 07 (polirepo, C# .NET 10, proveedor de IA detrás de una interfaz, Azure, PostgreSQL y Qdrant, multi-tenant). En ellos, donde dice «plataforma académica», léase PractiMentor.
 
 ## Consecuencias
 
