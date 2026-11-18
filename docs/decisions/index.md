@@ -20,12 +20,14 @@ Esta tabla se actualiza a mano cada vez que se agrega un ADR.
 | ADR | Decisión | Estado |
 |---|---|---|
 | [2026-08-23-01](2026-08-23-01-polyrepo-bajo-organizacion.md) | Un repositorio por servicio, bajo la organización `utp-agent` | Aceptada |
-| [2026-08-23-02](2026-08-23-02-github-flow-ramas-personales.md) | GitHub Flow con ramas personales `dev/<nombre>` | Aceptada — se revisa al cerrar el Sprint 1 |
+| [2026-08-23-02](2026-08-23-02-github-flow-ramas-personales.md) | GitHub Flow con ramas personales `dev/<nombre>` | Reemplazada por 2026-11-18-02 |
 | [2026-08-23-03](2026-08-23-03-csharp-en-vez-de-java.md) | C# .NET 10 para el backend académico | Aceptada |
 | [2026-08-23-04](2026-08-23-04-proveedor-ia-detras-de-interfaz.md) | Proveedor de IA detrás de una interfaz propia, Gemini por defecto | Aceptada |
 | [2026-08-23-05](2026-08-23-05-azure-en-vez-de-aws.md) | Azure para el despliegue en nube | Aceptada |
 | [2026-08-23-06](2026-08-23-06-postgresql-y-qdrant.md) | PostgreSQL y Qdrant como almacenes separados | Aceptada |
 | [2026-08-23-07](2026-08-23-07-multi-tenant-diferido.md) | Multi-tenant diseñado ahora, aplicado en el Sprint 3 | Aceptada |
+| [2026-11-18-01](2026-11-18-01-cambio-de-producto-a-practimentor.md) | El producto pasa a ser PractiMentor; se renombran la organización y los repositorios | Aceptada |
+| [2026-11-18-02](2026-11-18-02-github-flow-ramas-cortas.md) | GitHub Flow con ramas cortas por tarea | Aceptada |
 
 ## Cómo escribir uno nuevo
 
