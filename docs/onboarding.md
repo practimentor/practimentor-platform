@@ -28,7 +28,7 @@ gh auth login
 
 ## 3. Entra a la organización
 
-Acepta la invitación que llega a tu correo electrónico o entra a github.com/practimentor. Sin aceptarla no podrás asignarte issues ni abrir Pull Requests.
+Acepta la invitación que llega a tu correo electrónico en los primeros dos días del sprint, o entra a `github.com/practimentor`. Sin aceptarla no podrás asignarte issues ni abrir Pull Requests.
 
 ## 4. Repositorios
 
